@@ -1,5 +1,5 @@
 ### Hi there 👋   
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ddok2.ddok2)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=ddok2.ddok2)
 
 
 ![](https://media1.tenor.com/images/2ddd441a094881de33cd8b283aec1321/tenor.gif)
