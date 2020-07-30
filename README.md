@@ -2,7 +2,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ddok2.ddok2)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fddok2)](https://hits.seeyoufarm.com)
 
-
+![Sungyub NA's github stats](https://github-readme-stats.vercel.app/api?username=ddok2&show_icons=true)
 ![](https://media1.tenor.com/images/2ddd441a094881de33cd8b283aec1321/tenor.gif)
 
 <!--
