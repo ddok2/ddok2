@@ -5,8 +5,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=ddok2&show_icons=true)
 
 
-![](https://media1.tenor.com/images/2ddd441a094881de33cd8b283aec1321/tenor.gif)
-
 <!--
 I am Swastik Baranwal from Delhi, India who is a Noob, Open Source and V Contributor, DevOps enthusiastic, Ex Pokemon Gba Rom Hacker and Pixel Artist, loves Anime and Manga, always learning new things, ready for discussions and making new projects, write blogs on Dev.to etc.
 
