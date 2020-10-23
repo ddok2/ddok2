@@ -3,7 +3,7 @@ name: wakatime-stats
 on:
   workflow_dispatch:
   schedule:
-    - cron: '* * * * *'
+    - cron: '30 9 * * *'
 
 jobs:
   update-readme:
