@@ -1,16 +1,20 @@
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=ddok2.ddok2)
+
+[![Actions Status](https://github.com/ddok2/ddok2/workflows/Todoist%20Readme/badge.svg)](https://github.com/ddok2/ddok2/actions)
+[![Actions Status](https://github.com/ddok2/ddok2/workflows/wakatime-stats/badge.svg)](https://github.com/ddok2/ddok2/actions)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fddok2)](https://hits.seeyoufarm.com)
 
+<!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ddok2.ddok2) -->
 ## Hi, there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
 
-I am a **Software Development Engineer🧑‍💻 / Blockchain Developer [@NURI-Telecom](http://www.nuritelecom.com) ** 
+I am a `Software Development Engineer🧑‍💻 / Blockchain Developer` [@NURI Telecom Co., Ltd.](http://www.nuritelecom.com)
 
 
 <p align="center">
 <img align="center" alt="GIF" src="img/debugging.gif" />
 </p>
 
-#### 🛠 Languages & Tools:
+
+### 🛠 Languages & Tools:
 <p>
     <img src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/>
     <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
@@ -25,7 +29,7 @@ I am a **Software Development Engineer🧑‍💻 / Blockchain Developer [@NURI-
     <img src="https://img.shields.io/badge/ansible%20-%231A1918.svg?&style=for-the-badge&logo=ansible&logoColor=white"/>
 </p>
 
-#### 🌈 Recent Activity:
+### 🌈 Recent Activity:
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
 
@@ -75,7 +79,7 @@ Mac                      20 hrs 17 mins      ███████████�
 
 <!--END_SECTION:waka-->
 
-#### 🚧 My Todoist Stats:
+### 🚧 My Todoist Stats:
 <!-- TODO-IST:START -->
 🏆  11,788 Karma Points           
 🌸  Completed 1 tasks today           
@@ -83,7 +87,6 @@ Mac                      20 hrs 17 mins      ███████████�
 ✅  Completed 1,195 tasks so far           
 ⏳  Longest streak is 3 days
 <!-- TODO-IST:END -->
-
 
 <details>
 <summary>📈 My GitHub Stats</summary>
