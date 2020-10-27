@@ -82,9 +82,9 @@ Mac                      17 hrs 41 mins      ███████████�
 ### 🚧 My Todoist Stats:
 <!-- TODO-IST:START -->
 🏆  11,818 Karma Points           
-🌸  Completed 2 tasks today           
-🗓  Completed 3 tasks this week           
-✅  Completed 1,203 tasks so far           
+🌸  Completed 3 tasks today           
+🗓  Completed 4 tasks this week           
+✅  Completed 1,204 tasks so far           
 ⏳  Longest streak is 3 days
 <!-- TODO-IST:END -->
 
