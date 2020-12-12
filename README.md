@@ -31,7 +31,7 @@ I am a `Software Development Engineer🧑‍💻 / Blockchain Developer` [@NURI 
 
 ### 🌈 Recent Activity:
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.9%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.0%20million%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
@@ -62,14 +62,14 @@ Sunday       15 commits     ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Go                       10 hrs 50 mins      ██████████████████████░░░   87.59% 
-Java                     1 hr 32 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.41%
+Go                       13 hrs 34 mins      ██████████████████████░░░   89.36% 
+Java                     1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.64%
 
 🔥 Editors: 
-IntelliJ                 12 hrs 22 mins      █████████████████████████   100.0%
+IntelliJ                 15 hrs 11 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      12 hrs 22 mins      █████████████████████████   100.0%
+Mac                      15 hrs 11 mins      █████████████████████████   100.0%
 
 ```
 
