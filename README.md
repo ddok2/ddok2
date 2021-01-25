@@ -31,7 +31,7 @@ I am a `Software Development Engineer🧑‍💻 / Blockchain Developer` [@NURI 
 
 ### 🌈 Recent Activity:
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-597449%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-597550%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
@@ -45,11 +45,11 @@ I am a `Software Development Engineer🧑‍💻 / Blockchain Developer` [@NURI 
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday       198 commits    ████████░░░░░░░░░░░░░░░░░   31.94% 
+Monday       201 commits    ████████░░░░░░░░░░░░░░░░░   32.42% 
 Tuesday      100 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.13% 
 Wednesday    111 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.9% 
 Thursday     77 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.42% 
-Friday       101 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.29% 
+Friday       98 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.81% 
 Saturday     18 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   2.9% 
 Sunday       15 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   2.42%
 
