@@ -31,7 +31,7 @@ I am a `Software Development Engineer🧑‍💻 / Blockchain Developer` [@NURI 
 
 ### 🌈 Recent Activity:
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-617127%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-617132%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
