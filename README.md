@@ -1,7 +1,7 @@
 
 [![Actions Status](https://github.com/ddok2/ddok2/workflows/Todoist%20Readme/badge.svg)](https://github.com/ddok2/ddok2/actions)
 [![Actions Status](https://github.com/ddok2/ddok2/workflows/wakatime-stats/badge.svg)](https://github.com/ddok2/ddok2/actions)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fddok2)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fddok2&count_bg=%237A92F5&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ddok2.ddok2) -->
 ## Hi, there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
