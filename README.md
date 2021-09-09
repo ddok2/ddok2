@@ -75,7 +75,7 @@ Mac                      13 hrs 57 mins      ███████████�
 ```
 
 
- Last Updated on 08/09/2021
+ Last Updated on 09/09/2021
 <!--END_SECTION:waka-->
 
 ### 🚧 My Todoist Stats:
