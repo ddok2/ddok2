@@ -62,18 +62,18 @@ Sunday       30 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Go                       5 hrs 14 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ                 5 hrs 14 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      5 hrs 14 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 02/11/2021
+ Last Updated on 03/11/2021
 <!--END_SECTION:waka-->
 
 ### 🚧 My Todoist Stats:
