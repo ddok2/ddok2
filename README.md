@@ -6,7 +6,7 @@
 <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ddok2.ddok2) -->
 ## Hi, there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
 
-I am a `Software Development Engineer🧑‍💻 / Blockchain Developer` [@NuriFlex Co., Ltd.](https://nuriflex.com)
+I am a `Software Development Engineer🧑‍💻` [@iconloop](https://github.com/iconloop)
 
 
 <p align="center">
