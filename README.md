@@ -31,6 +31,8 @@ I am a `Software Development Engineer🧑‍💻` [@iconloop](https://github.com
 
 ### 🌈 Recent Activity:
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C373%20hrs%2026%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-274%20Thousand%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
@@ -63,7 +65,7 @@ Sunday       31 commits     █░░░░░░░░░░░░░░░░�
 
 💬 Programming Languages: 
 Python                   16 hrs 41 mins      ████████████████████░░░░░   81.61% 
-Go                       2 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.04% 
+Go                       2 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.05% 
 JSON                     21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.77% 
 Other                    16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.33% 
 Kotlin                   14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.22%
@@ -78,7 +80,7 @@ Mac                      20 hrs 27 mins      ███████████�
 ```
 
 
- Last Updated on 21/02/2022 01:29:59 UTC
+ Last Updated on 21/02/2022 09:48:47 UTC
 <!--END_SECTION:waka-->
 
 ### 🚧 My Todoist Stats:
