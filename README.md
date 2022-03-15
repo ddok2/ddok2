@@ -28,12 +28,18 @@ I am a `Software Development Engineer🧑‍💻` [@iconloop](https://github.com
     <img src="https://img.shields.io/badge/kubernetes%20-%23326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>
     <img src="https://img.shields.io/badge/ansible%20-%231A1918.svg?&style=for-the-badge&logo=ansible&logoColor=white"/>
 </p>
-<details>
-    <summary>💬 Most used languages</summary>
+<details open>
+    <summary>📈 My GitHub Stats</summary>
     <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddok2&layout=compact&hide=html,css" />
+        <a href="https://github.com/ddok2">
+            <img align="center" src="https://github-readme-stats.vercel.app/api?username=ddok2&show_icons=true&include_all_commits=true&count_private=true&theme=buefy&hide_border=true" alt="Sung's github stats" />
+        </a> 
+        <a href="https://github.com/ddok2">
+            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddok2&layout=compact&theme=buefy&hide=html,css&hide_border=true" />
+        </a>
     </p>
 </details>
+
 
 ### 🌈 Recent Activity:
 <!--START_SECTION:waka-->
@@ -96,9 +102,3 @@ Mac                      17 hrs 52 mins      ███████████�
 ⏳  Longest streak is 3 days
 <!-- TODO-IST:END -->
 
-<details>
-    <summary>📈 My GitHub Stats</summary>
-    <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=ddok2&count_private=true&show_icons=true" alt="ddok2" />
-    </p>
-</details>
