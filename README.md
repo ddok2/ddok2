@@ -15,23 +15,16 @@ I am a `Software Development Engineer🧑‍💻` [@iconloop](https://github.com
 
 
 ### 🛠 Languages & Tools:
-<p>
-    <img src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/>
-    <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
-    <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-    <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
-    <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-    <img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Google%20Cloud%20-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white"/>
-    <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
-    <img src="https://img.shields.io/badge/kubernetes%20-%23326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>
-    <img src="https://img.shields.io/badge/ansible%20-%231A1918.svg?&style=for-the-badge&logo=ansible&logoColor=white"/>
-</p>
+
+[![My Skills](https://skillicons.dev/icons?i=go,js,ts,py,express,react,svelte,jquery,pug,mongodb,mysql,redis,aws,docker,kubernetes)](https://skillicons.dev)
 
 
-| <a href="https://github.com/ddok2"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ddok2&show_icons=true&include_all_commits=true&count_private=true&theme=buefy&hide_border=true" alt="Sung's github stats" /></a> | <a href="https://github.com/ddok2"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddok2&layout=compact&theme=buefy&hide=html,css&hide_border=true" /></a> |
-| ------------- | ------------- |
+| <a href="https://github.com/ddok2"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ddok2&show_icons=true&include_all_commits=true&count_private=true&theme=buefy&hide_border=true" alt="Sung's github stats" /></a> | <a href="https://github.com/ddok2"><img src="http://github-readme-streak-stats.herokuapp.com?user=ddok2&hide_border=true" /></a> |
+| ------------- |------------- |
+
+
+| <a href="https://github.com/ddok2"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddok2&theme=buefy&hide=html,css&hide_border=true width=50%" /></a> | <a href="https://github.com/ddok2"><img align="center" src="https://activity-graph.herokuapp.com/graph?username=ddok2&theme=github&hide_border=true" height="250" /></a> |
+| ------------- |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 
 <!-- <details open>
