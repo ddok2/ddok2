@@ -23,7 +23,7 @@ I am a `Software Development Engineer🧑‍💻` [@iconloop](https://github.com
 | ------------- |------------- |
 
 
-| <a href="https://github.com/ddok2"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddok2&theme=buefy&hide=html,css&hide_border=true" width="50%" /></a> | <a href="https://github.com/ddok2"><img align="center" src="https://activity-graph.herokuapp.com/graph?username=ddok2&theme=github&hide_border=true" height="250" /></a> |
+| <a href="https://github.com/ddok2"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddok2&theme=buefy&hide=html,css&hide_border=true" /></a> | <a href="https://github.com/ddok2"><img align="center" src="https://activity-graph.herokuapp.com/graph?username=ddok2&theme=github&hide_border=true" height="250" /></a> |
 | ------------- |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 
