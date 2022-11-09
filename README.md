@@ -19,7 +19,7 @@ I am a `Software Development Engineer🧑‍💻` [@iconloop](https://github.com
 [![My Skills](https://skillicons.dev/icons?i=go,js,ts,py,express,react,svelte,jquery,pug,mongodb,mysql,redis,aws,docker,kubernetes)](https://skillicons.dev)
 
 
-| <a href="https://github.com/ddok2"><img align="center" src="https://github-readme-stats-ddok2.vercel.app/api?username=ddok2&show_icons=true&include_all_commits=true&count_private=true&theme=buefy&hide_border=true" alt="Sung's github stats" /></a> | <a href="https://github.com/ddok2"><img src="http://github-readme-streak-stats.herokuapp.com?user=ddok2&hide_border=true" /></a> |
+| <a href="https://github-readme-stats.vercel.app/api?username=ddok2&show_icons=true&include_all_commits=true&count_private=true&theme=buefy&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ddok2&show_icons=true&include_all_commits=true&count_private=true&theme=buefy&hide_border=true" alt="Sung's github stats" /></a> | <a href="https://github.com/ddok2"><img src="http://github-readme-streak-stats.herokuapp.com?user=ddok2&hide_border=true" /></a> |
 | ------------- |------------- |
 
 
