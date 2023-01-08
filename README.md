@@ -47,9 +47,9 @@ I am a `Software Development Engineer🧑‍💻` [@iconloop](https://github.com
 
 ### 🌈 Recent Activity:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C897%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C897%20hrs%2039%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4%20Million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
@@ -96,7 +96,7 @@ Mac                      24 mins             ███████████�
 ```
 
 
- Last Updated on 07/01/2023 09:48:16 UTC
+ Last Updated on 08/01/2023 09:48:18 UTC
 <!--END_SECTION:waka-->
 
 ### 🚧 My Todoist Stats:
