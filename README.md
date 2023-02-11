@@ -47,7 +47,7 @@ I am a `Software Development Engineer🧑‍💻` [@iconloop](https://github.com
 
 ### 🌈 Recent Activity:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C924%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C926%20hrs%2042%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--163%20Thousand%20lines%20of%20code-blue)
 
@@ -80,8 +80,8 @@ Sunday          26 commits       █░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Bash                     3 hrs 20 mins       ███████████░░░░░░░░░░░░░░   45.03 % 
-Go                       2 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   27.93 % 
+Bash                     3 hrs 20 mins       ███████████░░░░░░░░░░░░░░   45.05 % 
+Go                       2 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   27.91 % 
 Shell Script             52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
 Dockerfile               47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
 Docker                   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
@@ -96,7 +96,7 @@ Mac                      7 hrs 26 mins       ███████████�
 ```
 
 
- Last Updated on 10/02/2023 09:54:18 UTC
+ Last Updated on 11/02/2023 09:54:48 UTC
 <!--END_SECTION:waka-->
 
 ### 🚧 My Todoist Stats:
