@@ -134,7 +134,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 <!-- TODO-IST:START -->
 🏆  **16,627** Karma Points           
 🌸  Completed **0** tasks today           
-🗓  Completed **7** tasks this week           
+🗓  Completed **0** tasks this week           
 ✅  Completed **2,440** tasks so far           
 ⏳  Longest streak is **3** days
 <!-- TODO-IST:END -->
