@@ -47,7 +47,7 @@ I am a `Software Development Engineer🧑‍💻` [@iconloop](https://github.com
 
 ### 🌈 Recent Activity:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C129%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C130%20hrs%2038%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.5%20million%20lines%20of%20code-blue)
 
@@ -77,16 +77,16 @@ Bash                     1 hr 39 mins        ██░░░░░░░░░�
 Shell Script             1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
 
 🔥 Editors: 
-IntelliJ                 11 hrs 29 mins      ████████████████░░░░░░░░░   65.00 % 
+IntelliJ                 11 hrs 29 mins      ████████████████░░░░░░░░░   65.01 % 
 GoLand                   6 hrs 10 mins       █████████░░░░░░░░░░░░░░░░   34.94 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 💻 Operating System: 
 Mac                      17 hrs 40 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 17/06/2023 09:42:32 UTC
+ Last Updated on 19/06/2023 09:43:52 UTC
 <!--END_SECTION:waka-->
 
 ### 🚧 My Todoist Stats:
