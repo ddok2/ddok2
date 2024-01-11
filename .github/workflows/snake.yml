@@ -1,0 +1,31 @@
+name: Generate Snake Contributions
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '30 9 * * *'
+
+jobs:
+  snake:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v2
+      - name: Generate Snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            assets/snake.svg?color_snake=#020080&color_dots=#888,#09b43a,#efb041,#ff6969,#1688f0
+      - name: Commit files
+        run: |
+          git config --local user.email "ddok2@users.noreply.github.com"
+          git config --local user.name "github-actions from ddok2"
+          git add .
+          git commit -m "docs: Update Snake Contribution Animation"
+          git pull --rebase --autostash
+      - name: Push
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GH_TOKEN }}
+          branch: ${{ github.ref }}
