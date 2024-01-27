@@ -20,6 +20,7 @@ jobs:
           filename: assets/metrics.svg
 
           plugin_languages: yes
+          plugin_languages_ignored: html, css, stylus, slice
           plugin_languages_sections: most-used, recently-used
           plugin_languages_categories: markup, programming
           plugin_languages_colors: rainbow
