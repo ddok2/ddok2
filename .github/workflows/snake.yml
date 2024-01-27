@@ -3,7 +3,7 @@ name: Generate Snake Contributions
 on:
   workflow_dispatch:
   schedule:
-    - cron: '30 9 * * *'
+    - cron: '37 9 * * *'
 
 jobs:
   snake:
