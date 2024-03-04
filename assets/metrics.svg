@@ -136,15 +136,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 432kb of code in 353 edited files across 42 commits over last 30 days</small>
+                <small>estimation from 405kb of code in 324 edited files across 40 commits over last 26 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="453.9294075543162" height="8" fill="#ff0000"/>
-                    <rect mask="url(#languages-bar)" x="453.9294075543162" y="0" width="5.13599558610817" height="8" fill="#ffa500"/>
-                    <rect mask="url(#languages-bar)" x="459.0654031404244" y="0" width="0.9345968595756103" height="8" fill="#ffff00"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="453.3427825438269" height="8" fill="#ff0000"/>
+                    <rect mask="url(#languages-bar)" x="453.3427825438269" y="0" width="5.7097268846616105" height="8" fill="#ffa500"/>
+                    <rect mask="url(#languages-bar)" x="459.0525094284885" y="0" width="0.9474905715114591" height="8" fill="#ffff00"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -156,8 +156,8 @@
                                 Python
                             </div>
                             <small>
-                                <div>6.79k lines</div>
-                                <div>98.68%</div>
+                                <div>6.07k lines</div>
+                                <div>98.55%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -168,8 +168,8 @@
                                 Makefile
                             </div>
                             <small>
-                                <div>21 lines</div>
-                                <div>0.2%</div>
+                                <div>19 lines</div>
+                                <div>0.21%</div>
                             </small>
                         </div>
                     </section>
@@ -183,7 +183,7 @@
                             </div>
                             <small>
                                 <div>63 lines</div>
-                                <div>1.12%</div>
+                                <div>1.24%</div>
                             </small>
                         </div>
                     </section>
