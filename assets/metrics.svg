@@ -136,15 +136,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 390kb of code in 292 edited files across 50 commits over last 30 days</small>
+                <small>estimation from 387kb of code in 285 edited files across 42 commits over last 30 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="458.78388340465193" height="8" fill="#ff0000"/>
-                    <rect mask="url(#languages-bar)" x="458.78388340465193" y="0" width="0.951065542515782" height="8" fill="#ffa500"/>
-                    <rect mask="url(#languages-bar)" x="459.7349489471677" y="0" width="0.2650510528322671" height="8" fill="#ffff00"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="459.1882446112527" height="8" fill="#ff0000"/>
+                    <rect mask="url(#languages-bar)" x="459.1882446112527" y="0" width="0.5424901866262654" height="8" fill="#ffa500"/>
+                    <rect mask="url(#languages-bar)" x="459.73073479787894" y="0" width="0.269265202121066" height="8" fill="#ffff00"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -156,8 +156,8 @@
                                 Python
                             </div>
                             <small>
-                                <div>5.93k lines</div>
-                                <div>99.74%</div>
+                                <div>5.86k lines</div>
+                                <div>99.82%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -182,8 +182,8 @@
                                 Shell
                             </div>
                             <small>
-                                <div>8 lines</div>
-                                <div>0.21%</div>
+                                <div>4 lines</div>
+                                <div>0.12%</div>
                             </small>
                         </div>
                     </section>
